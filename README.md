@@ -10,5 +10,7 @@ Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich te
 Check out the demo - https://www.youtube.com/watch?v=9mJyFtsT1Z8&feature=youtu.be
 
 The new look for the editor is: 
-[alt](C:\Users\Aneesh Dalvi\Desktop\1.PNG)
+
+![1](https://user-images.githubusercontent.com/43055292/56841002-cd69c480-683f-11e9-931a-a73dd8019a19.PNG)
+
 
