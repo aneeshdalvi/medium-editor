@@ -1,0 +1,71 @@
+.medium-toolbar-arrow-under:after {
+  border-color: #2f1e07 transparent transparent transparent;
+  top: 60px; }
+
+.medium-toolbar-arrow-over:before {
+  border-color: transparent transparent #2f1e07 transparent; }
+
+.medium-editor-toolbar {
+  background-color: transparent;
+  border: 1px  #fff;
+  border-radius: 50px;
+   }
+  .medium-editor-toolbar li button {
+    background-color: #fff;
+    border: none;
+    border-color: 1px solid #00000;
+    box-sizing: border-box;
+    color: #00000;
+    margin-left: 10px;
+    box-shadow: 1px 2px 5px grey;
+    opacity: 66%;
+    height: 60px;
+    min-width: 60px;
+    -webkit-transition: background-color .2s ease-in, color .2s ease-in;
+            transition: background-color .2s ease-in, color .2s ease-in; }
+    .medium-editor-toolbar li button:hover {
+      background-color: #734b9d;
+      color: #ffedd5; }
+    .medium-editor-toolbar li .medium-editor-button-first {
+      background-color: #734b9d;
+     }
+  /*.medium-editor-toolbar li .medium-editor-button-last {
+    border-bottom-right-radius: 6px;
+    border-right: none;
+    border-top-right-radius: 6px; }*/
+  .medium-editor-toolbar li .medium-editor-button-active {
+    background-color: #2c82ff;
+    color: #000; }
+
+.medium-editor-toolbar-form {
+  background: #2f1e07;
+  border-radius: 6px;
+  color: #ffedd5; }
+  .medium-editor-toolbar-form .medium-editor-toolbar-input {
+    background: #2f1e07;
+    color: #ffedd5;
+    height: 60px; }
+    .medium-editor-toolbar-form .medium-editor-toolbar-input::-webkit-input-placeholder {
+      color: #ffedd5;
+      color: rgba(255, 237, 213, 0.8); }
+    .medium-editor-toolbar-form .medium-editor-toolbar-input:-moz-placeholder {
+      /* Firefox 18- */
+      color: #ffedd5;
+      color: rgba(255, 237, 213, 0.8); }
+    .medium-editor-toolbar-form .medium-editor-toolbar-input::-moz-placeholder {
+      /* Firefox 19+ */
+      color: #ffedd5;
+      color: rgba(255, 237, 213, 0.8); }
+    .medium-editor-toolbar-form .medium-editor-toolbar-input:-ms-input-placeholder {
+      color: #ffedd5;
+      color: rgba(255, 237, 213, 0.8); }
+  .medium-editor-toolbar-form a {
+    color: #ffedd5; }
+
+.medium-editor-toolbar-anchor-preview {
+  background: #734b9d;
+  border-radius: 6px solid #734b9d;
+  color: #ffedd5; }
+
+.medium-editor-placeholder:after {
+  color: #5b3a0e; }
