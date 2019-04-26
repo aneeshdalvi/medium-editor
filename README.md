@@ -20,6 +20,8 @@ Instructions to run:
 - Run command "python manage.py runserver"
 - And you are all set! (Also, you need Django installed ofcourse :P )
 
+### Happy Text Editing!
+
 
 
 
