@@ -13,4 +13,13 @@ The new look for the editor is:
 
 ![1](https://user-images.githubusercontent.com/43055292/56841002-cd69c480-683f-11e9-931a-a73dd8019a19.PNG)
 
+Instructions to run:
+
+- Clone the project.
+- Open command prompt and go one folder inside /Assessment/(till here).
+- Run command "python manage.py runserver"
+- And you are all set! (Also, you need Django installed ofcourse :P )
+
+
+
 
