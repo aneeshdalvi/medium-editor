@@ -1,8 +1,7 @@
 # Custom Medium-Editor (Python Django App)
-Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-
 #### This app is a text editor app which allows the user to add, edit, and use various features given by medium editor library.
 
+Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - Added a new button 'close' to editor which close the editor if clicked.
 - Used Python Django framework to run this webpage on server
 - Applied Materialise Framework for the UI 
